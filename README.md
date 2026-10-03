@@ -99,11 +99,4 @@ SHAP deletion fidelity: prob drop = 0.4252
 - [SHAP: A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
 - [Why Should I Trust You?: Explaining the Predictions of Any Classifier (LIME)](https://arxiv.org/abs/1602.04938)
 
-## Author
-Aditya Parashar
 
-## License
-MIT
-
-## Contributing
-Contributions are welcome. Please open an issue or submit a pull request.
